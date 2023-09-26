@@ -27,11 +27,11 @@ odd.push (num)
 })
 console. log (
     even, odd)
-    let  qq =+ prompt('Пароль')
+    let  qq =+ prompt('Введите число')
     let i = 10
     do{
       if(qq<100){
-        qq =+prompt(`Пароль`);
+        qq =+prompt(`Введите число`);
       }
       else if(qq >100){
         alert('Добро пожаловать')
